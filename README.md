@@ -7,10 +7,12 @@
 - Current Working Technologies - Artificial Intelligence, Machine Learning, Data Science, Deep Learning
 - 🌱 I’m currently learning Machine Learning, Deep Learning, BlockChain
 - 💞️ I’m looking to collaborate on a problem that has great impact to the real world.
-- 📫 How to reach me ...
+- 📫 How to reach me ... [Cracky_donut](https://github.com/crackysolver)
+
+
 
 <!---
 Hackingknight/Hackingknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-i
+
