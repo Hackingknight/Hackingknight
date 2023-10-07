@@ -4,7 +4,7 @@
 
 - 📫 How to reach me ... [Cracky_donut](https://github.com/crackysolver)<br><br>
 or<br><br>
- <a href="mailto: aju2anu8993@gmail.com"><img src="gmail.png" width="40"/></a>
+ <a href="mailto:aju2anu8993@gmail.com"><img src="gmail.png" width="40"/></a>
 
 
 
